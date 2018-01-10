@@ -61,7 +61,7 @@ To uninstall all versions of a Cask, use `--force`:
 $ brew cask uninstall --force google-chrome
 ```
 
-Note that `uninstall --force` is currently imperfect. See the man page for more information.
+Note that `uninstall --force` is currently imperfect. See the man page (`man brew-cask`) for more information.
 
 ## Other Commands
 
